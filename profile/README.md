@@ -162,7 +162,7 @@ Assam deserves world-class technology education in its own language.
 That's why our projects are built in:
 
 - 🇮🇳 English
-- 🟢 অসমীয়া (Assamese)
+- 🟢 অসমীয়া
 
 Language should never be a barrier to learning.
 
@@ -198,7 +198,7 @@ Let's make technology accessible to everyone.
 
 ---
 
-# 🌟 Our Mission
+#  Our Mission
 
 > **Equal Access for All. Making AI Easy for Everyone in Assam & Beyond.**
 
@@ -211,6 +211,6 @@ Let's make technology accessible to everyone.
 
 ---
 
-## 🇮🇳 Made with ❤️ from Assam
+## Made with ❤️ from Assam 🇮🇳
 
-** জয় আই অসম ❤️
+** জয় আই অসম 
