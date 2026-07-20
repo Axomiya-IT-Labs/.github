@@ -1,235 +1,207 @@
-# Axomiya IT Labs
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1500&color=0EA5E9&center=true&vCenter=true&width=900&lines=Axomiya+IT+Labs;Equal+Access+for+All;Making+AI+Easy+for+Everyone+in+Assam+%26+Beyond;Learn+%E2%80%A2+Build+%E2%80%A2+Share+%E2%80%A2+Automate" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+
+**An Open Source Community Building AI, Technology & Digital Skills for Everyone.**
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20Source-Community-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20for-Everyone-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Built%20in-Assam-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Equal%20Access-for%20All-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://AxomiyaITLabs.vercel.app">
+<img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://t.me/AxomiyaITLabs">
+<img src="https://img.shields.io/badge/Telegram-Community-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/AxomiyaITLabs">
+<img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/groups/1556385872564016/">
+<img src="https://img.shields.io/badge/Facebook-Group-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@AxomiyaITLabs">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Discord-Coming%20Soon-5865F2?style=flat-square&logo=discord&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/stars/AxomiyaITLabs/.github?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/AxomiyaITLabs?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/AxomiyaITLabs/.github?style=for-the-badge" />
+
+</div>
+
+---
+
+# Welcome
+
+**Axomiya IT Labs** is an open-source community dedicated to making Artificial Intelligence, technology, and digital skills accessible to everyone.
+
+We believe knowledge should never be limited by language, geography, or financial background.
+
+Whether you're a student, teacher, developer, entrepreneur, creator, or simply curious about technology—you belong here.
+
+Our mission is simple:
 
 > **Equal Access for All. Making AI Easy for Everyone in Assam & Beyond.**
 
-Welcome to **Axomiya IT Labs**—an open-source community dedicated to making Artificial Intelligence, technology, and digital skills accessible to everyone, regardless of age, background, language, or location.
+---
+
+# Why We Exist
+
+The internet has made knowledge available to almost everyone.
+
+Today, anyone can learn programming, Artificial Intelligence, design, entrepreneurship, finance, or almost any other skill from anywhere in the world.
+
+The real challenge is no longer access to information.
+
+The challenge is helping people discover it, understand it, and use it to build a better future.
+
+Axomiya IT Labs exists to bridge that gap.
 
 ---
 
-# The Internet Changed Everything
+# Our Vision
 
-The internet is one of the greatest sources of knowledge humanity has ever created.
+We envision a future where every individual in Assam has the opportunity to:
 
-Today, almost everything taught in schools, colleges, universities, books, or by educators can also be learned online—often for free.
-
-Whether you live in a small village in Assam, the streets of London, or New York City, you have access to the same information.
-
-The internet has made knowledge global.
-
-The difference today is no longer **who has access to information.**
-
-The difference is **who chooses to learn, build, and create.**
-
----
-
-# 🎓 Degrees Help. Curiosity Builds.
-
-A college degree is valuable.
-
-It opens doors, provides structure, and creates opportunities.
-
-But it is not the only path to success.
-
-Many successful entrepreneurs, engineers, developers, designers, and creators are lifelong self-learners.
-
-Elon Musk is well known for teaching himself subjects far beyond his formal education by reading books and learning independently. Ritesh Agarwal built OYO into one of India's largest startups at a young age without completing a traditional college degree. Around the world, thousands of founders and developers have built incredible products through continuous self-learning.
-
-The lesson isn't that college doesn't matter.
-
-The lesson is that **learning never stops.**
-
-If you're passionate enough, the internet gives you everything you need to begin.
-
----
-
-# Welcome to the AI Era
-
-Artificial Intelligence is changing how humans learn, work, communicate, create, and solve problems.
-
-AI is becoming one of the biggest technological revolutions in history.
-
-Today, a single person with AI can do work that once required an entire team.
-
-AI is helping people:
-
-- Learn faster
+- Learn Artificial Intelligence
 - Build software
-- Create businesses
-- Design products
-- Write code
-- Analyze data
-- Make better decisions
-- Automate repetitive work
+- Create useful products
+- Contribute to Open Source
+- Solve local problems using technology
+- Participate in the global digital economy
 
-Unfortunately, millions of people—including many in Assam—still don't know what AI is or how it can improve their daily lives.
-
-We want to change that.
+We believe the next generation of innovators can come from anywhere.
 
 ---
 
-# From Consumers to Creators
+# What We Build
 
-Almost everyone today has access to the internet through a smartphone.
+We create practical, open-source technology that helps people learn, build, and grow.
 
-Yet many people only use it to scroll social media, watch videos, or consume entertainment.
+Projects include:
 
-The internet is much more powerful than that.
-
-It can help you:
-
-- Learn new skills
-- Start a business
-- Build software
-- Contribute to open source
-- Earn online
-- Solve real-world problems
-- Connect with experts around the world
-
-Our mission is simple.
-
-> **Turn consumers into creators.**
+- Artificial Intelligence Applications
+- Educational Platforms
+- Developer Tools
+- Mobile Applications
+- Websites
+- Automation Systems
+- Learning Games
+- Personal Finance Tools
+- Productivity Software
+- Open Educational Resources
+- Assamese Language Technology
+- English Learning Resources
 
 ---
 
-#  What We Build
+# Our Principles
 
-AxomiyaITLabs builds open-source tools that make technology accessible to everyone.
-
-Our projects include:
-
-- 🤖 AI applications
-- 📚 Educational platforms
-- 🎮 Learning games
-- 🌐 Websites
-- 📱 Mobile apps
-- ⚙️ Automation tools
-- 💰 Personal finance tools
-- 🧠 Productivity apps
-- 👨‍💻 Developer tools
-- 📖 Open educational resources
-- 🇮🇳 Assamese language technology
-- 🌍 English learning resources
-
-Everything we build is designed to help people become more capable in everyday life.
+- Open Source First
+- Community Driven
+- Learning by Building
+- Practical Education
+- Technology for Everyone
+- Transparency
+- Collaboration
+- Accessibility
 
 ---
 
-#  Built for Everyone
+# Who Can Join?
 
-We build for:
+Everyone.
 
-- Kids
+Including:
+
 - Students
 - Teachers
 - Parents
 - Developers
+- Designers
 - Entrepreneurs
 - Freelancers
-- Job seekers
-- Government employees
-- Small businesses
-- Creators
-- Lifelong learners
+- Job Seekers
+- Researchers
+- Small Businesses
+- Content Creators
+- Lifelong Learners
 
-No technical background required.
+No technical background is required.
 
-No expensive subscription required.
-
-Everyone is welcome.
+Curiosity is enough.
 
 ---
 
-#  Open Source First
+# Contribute
 
-We believe knowledge should be shared.
+We welcome contributions of every kind.
 
-Whenever possible, everything we create is:
+You can help by:
 
-- Free
-- Open Source
-- Community Driven
-- Transparent
-- Collaborative
+- Writing code
+- Fixing bugs
+- Improving documentation
+- Translating content
+- Designing graphics
+- Creating educational resources
+- Reviewing pull requests
+- Sharing ideas
+- Reporting issues
 
-We welcome contributions from developers, designers, educators, translators, writers, students, and anyone who wants to make technology more accessible.
-
----
-
-#  Built in Assamese & English
-
-Assam deserves world-class technology education in its own language.
-
-That's why our projects are built in:
-
-- 🇮🇳 English
-- 🟢 অসমীয়া
-
-Language should never be a barrier to learning.
+Every contribution makes technology more accessible for someone else.
 
 ---
 
-#  Our Vision
+# Community
 
-We imagine a future where every person in Assam has the opportunity to understand AI, build technology, contribute to open source, and participate in the global digital economy.
-
-We want children to dream bigger.
-
-We want students to build earlier.
-
-We want professionals to adapt faster.
-
-We want creators to innovate fearlessly.
-
-We want Assam to become a recognized contributor to the global open-source ecosystem.
-
----
-
-# 🤝 Join the Community
-
-Whether you're writing your first line of code, building your first AI project, translating documentation into Assamese, designing educational content, or contributing to open source—
-
-**You're welcome here.**
-
-Let's learn together.
-
-Let's build together.
-
-Let's make technology accessible to everyone.
-
----
-
-#  Our Mission
-
-> **Equal Access for All. Making AI Easy for Everyone in Assam & Beyond.**
-
-### Learn • Build • Share • Automate
-
-- 💙 Everything Open Source
-- 📚 Learn at Your Own Pace
-- 🌍 Free for Everyone
-- 🚀 Build the Future Together
-
----
-
-## 🌐 Connect With Us
-
-Stay connected with the AxomiyaITLabs community across the web.
+Join our growing community.
 
 | Platform | Link |
 |----------|------|
-| 🌍 Live Website | https://AxomiyaITLabs.vercel.app |
-| 💬 Telegram Community | https://t.me/AxomiyaITLabs |
-| 👥 Facebook Group | https://www.facebook.com/groups/1556385872564016/ |
-| 📘 Facebook Page | https://www.facebook.com/AxomiyaITLabs |
-| ▶️ YouTube | https://www.youtube.com/@AxomiyaITLabs |
-| 💜 Discord Server | Coming Soon |
+| Website | https://AxomiyaITLabs.vercel.app |
+| Telegram Community | https://t.me/AxomiyaITLabs |
+| Facebook Group | https://www.facebook.com/groups/1556385872564016/ |
+| Facebook Page | https://www.facebook.com/AxomiyaITLabs |
+| YouTube | https://www.youtube.com/@AxomiyaITLabs |
+| Discord | Coming Soon |
 
 ---
 
-**AxomiyaITLabs** is building Assam's AI & Open Source ecosystem through education, collaboration, and innovation.
+# Our Mission
 
-⭐ If you like this project, consider starring the repository and joining our community!
+> **Equal Access for All. Making AI Easy for Everyone in Assam & Beyond.**
 
-## Made with ❤️ from Assam 🇮🇳
+We believe technology should empower everyone—not just a few.
 
-** জয় আই অসম **
+Together, we can build an open, inclusive, and innovative future.
+
+---
+
+<div align="center">
+
+## Learn • Build • Share • Automate
+
+If you like our mission, consider giving our repositories a ⭐ and joining the community.
+
+<br>
+
+Made with ❤️ from Assam 🇮🇳
+
+</div>
