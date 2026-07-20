@@ -194,10 +194,14 @@ Together, we can build an open, inclusive, and innovative future.
 
 ## Learn • Build • Share • Automate
 
-If you like our mission, consider giving our repositories a ⭐ and joining the community.
+If you believe technology should be accessible to everyone, consider giving our repositories a **⭐ Star** and becoming part of the Axomiya IT Labs community.
 
 <br>
 
 Made with ❤️ from Assam 🇮🇳
+
+### **জয় আই অসম**
+
+*"Together, let's build an AI-powered future for Assam and beyond."*
 
 </div>
