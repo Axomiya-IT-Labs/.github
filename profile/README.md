@@ -76,10 +76,10 @@ AI is transforming nearly every industry. It helps people:
 
 | | |
 |---|---|
-| 🚀 Learn faster | 🤖 Automate repetitive work |
-| 💻 Write code | 📊 Analyze data |
-| 🏗️ Build businesses | 🎨 Design products |
-| ✍️ Create content | 🧩 Solve complex problems |
+| Learn faster | Automate repetitive work |
+| Write code | Analyze data |
+| Build businesses | Design products |
+| Create content | Solve complex problems |
 
 Today, one person equipped with AI can accomplish work that once required entire teams. Yet millions of people — including many in Assam — still don't know what AI is or how it can improve their everyday lives.
 
@@ -150,25 +150,25 @@ Fixing a typo, improving documentation, reporting a bug, translating content, bu
 <table>
 <tr><td width="50%" valign="top">
 
-**👨‍💻 Developers**
+**Developers**
 - Build new features
 - Fix bugs & improve performance
 - Review Pull Requests
 - Improve accessibility
 
-**🎨 Designers**
+**Designers**
 - Create illustrations & icons
 - Improve UI/UX
 - Build design systems
 
 </td><td width="50%" valign="top">
 
-**🎓 Students**
+**Students**
 - Learn Git & GitHub
 - Solve beginner-friendly issues
 - Improve documentation
 
-**📚 Educators**
+**Educators**
 - Create learning materials
 - Mentor new learners
 - Suggest curriculum improvements
@@ -176,9 +176,9 @@ Fixing a typo, improving documentation, reporting a bug, translating content, bu
 </td></tr>
 <tr><td colspan="2">
 
-**✍️ Writers & Translators** — Improve documentation, translate projects, write tutorials, improve accessibility
+**Writers & Translators** — Improve documentation, translate projects, write tutorials, improve accessibility
 
-**🌍 Everyone** — You don't need to be an expert. If you're willing to learn, you're welcome here. Every contribution matters.
+**Everyone** — You don't need to be an expert. If you're willing to learn, you're welcome here. Every contribution matters.
 
 </td></tr>
 </table>
@@ -223,12 +223,12 @@ Let's learn, build, create, and shape the future — together.
 
 | Platform | Link |
 |---|---|
-| 🌐 Website | [AxomiyaITLabs.vercel.app](https://AxomiyaITLabs.vercel.app) |
-| 💬 Telegram Community | [t.me/AxomiyaITLabs](https://t.me/AxomiyaITLabs) |
-| 👥 Facebook Group | [Join here](https://www.facebook.com/groups/1556385872564016/) |
-| 📘 Facebook Page | [AxomiyaITLabs](https://www.facebook.com/AxomiyaITLabs) |
-| ▶️ YouTube | [@AxomiyaITLabs](https://www.youtube.com/@AxomiyaITLabs) |
-| 💜 Discord | Coming Soon |
+| Website | [AxomiyaITLabs.vercel.app](https://AxomiyaITLabs.vercel.app) |
+| Telegram Community | [t.me/AxomiyaITLabs](https://t.me/AxomiyaITLabs) |
+| Facebook Group | [Join here](https://www.facebook.com/groups/1556385872564016/) |
+| Facebook Page | [AxomiyaITLabs](https://www.facebook.com/AxomiyaITLabs) |
+| YouTube | [@AxomiyaITLabs](https://www.youtube.com/@AxomiyaITLabs) |
+| Discord | Coming Soon |
 
 ---
 
@@ -236,7 +236,7 @@ Let's learn, build, create, and shape the future — together.
 
 If you believe in our mission:
 
-⭐ Star our repositories · 🍴 Contribute to our projects · 🐞 Report bugs & suggest improvements · 📖 Improve documentation · 🌍 Share our work · 💬 Join our Telegram community
+Star our repositories · Contribute to our projects · Report bugs & suggest improvements · Improve documentation · Share our work · Join our Telegram community
 
 **Every contribution — no matter how small — helps someone else learn.**
 
