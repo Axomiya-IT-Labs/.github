@@ -211,6 +211,25 @@ Let's make technology accessible to everyone.
 
 ---
 
+## 🌐 Connect With Us
+
+Stay connected with the AxomiyaITLabs community across the web.
+
+| Platform | Link |
+|----------|------|
+| 🌍 Live Website | https://AxomiyaITLabs.vercel.app |
+| 💬 Telegram Community | https://t.me/AxomiyaITLabs |
+| 👥 Facebook Group | https://www.facebook.com/groups/1556385872564016/ |
+| 📘 Facebook Page | https://www.facebook.com/AxomiyaITLabs |
+| ▶️ YouTube | https://www.youtube.com/@AxomiyaITLabs |
+| 💜 Discord Server | Coming Soon |
+
+---
+
+**AxomiyaITLabs** is building Assam's AI & Open Source ecosystem through education, collaboration, and innovation.
+
+⭐ If you like this project, consider starring the repository and joining our community!
+
 ## Made with ❤️ from Assam 🇮🇳
 
 ** জয় আই অসম **
