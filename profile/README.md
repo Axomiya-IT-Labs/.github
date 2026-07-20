@@ -39,10 +39,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/stars/AxomiyaITLabs/.github?style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/AxomiyaITLabs?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/AxomiyaITLabs/.github?style=for-the-badge" />
-
 </div>
 
 ---
