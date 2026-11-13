@@ -1,10 +1,8 @@
 <div align="center">
 
 # Axomiya IT Labs
-
-**Equal access for all. Making AI easy for everyone in Assam and beyond.**
-
-Open-source technology, AI education, and digital opportunity, built for everyone in English and Assamese.
+- Equal access for all. Making AI easy for everyone in Assam and beyond.
+- Open-source technology, AI education, and digital opportunity, built for everyone in English and Assamese.
 
 <br>
 
