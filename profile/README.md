@@ -1,6 +1,4 @@
 <div align="center">
-
-# Axomiya IT Labs
 - Equal access for all. Making AI easy for everyone in Assam and beyond.
 - Open-source technology, AI education, and digital opportunity, built for everyone in English and Assamese.
 
@@ -15,9 +13,8 @@
 
 ---
 
-## Live Projects
+## Projects
 
-| Project | Tagline | Code |
 |---|---|---|
 | [**Axomiya IT Labs Community Website**](https://axomiya-it-labs.github.io) | The official open-source home for Axomiya IT Labs, built for community learning, projects, blogs, and contribution pathways. | [GitHub](https://github.com/Axomiya-IT-Labs/axomiyaitlabs) |
 | [**WhatAfter12**](https://whatafter12.vercel.app/en) | Know all higher education paths, jobs & earning opportunities after 12th in the age of AI. | [GitHub](https://github.com/axomiyaindie/wa12) |
