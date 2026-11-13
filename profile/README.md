@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Axomiya-IT-Labs/.github/main/assets/logo.png" alt="Axomiya IT Labs" width="140" />
+
+<br>
+
 Assam's first open-source community for AI education and digital opportunity, built for everyone in English and Assamese.
 
 **Equal access for all. Making AI easy for everyone in Assam and beyond.**
