@@ -1,6 +1,5 @@
-<div align="center">
-- Equal access for all. Making AI easy for everyone in Assam and beyond.
-- Open-source technology, AI education, and digital opportunity, built for everyone in English and Assamese.
+Assam's first Open-source, AI education, and digital opportunity, built for everyone in English and Assamese for Equal access for all. Making AI easy for everyone in Assam and beyond.
+
 
 <br>
 
@@ -14,8 +13,6 @@
 ---
 
 ## Projects
-
-|---|---|---|
 | [**Axomiya IT Labs Community Website**](https://axomiya-it-labs.github.io) | The official open-source home for Axomiya IT Labs, built for community learning, projects, blogs, and contribution pathways. | [GitHub](https://github.com/Axomiya-IT-Labs/axomiyaitlabs) |
 | [**WhatAfter12**](https://whatafter12.vercel.app/en) | Know all higher education paths, jobs & earning opportunities after 12th in the age of AI. | [GitHub](https://github.com/axomiyaindie/wa12) |
 | [**GWM Finance**](https://gmwfinance.netlify.app/en) | Master money basics: saving, smart investing, inflation management, and wealth building. | [GitHub](https://github.com/axomiyaindie/gmw) |
